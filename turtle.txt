@@ -1,0 +1,6 @@
+repeat 40
+move 10
+repeat 40
+move 20
+end
+end

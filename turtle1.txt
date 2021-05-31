@@ -1,0 +1,7 @@
+#a = 10
+move #a
+#Ps = 20, 20
+#d = distanceTo #s
+#p = bearingTo #s
+turn #p
+move #d
